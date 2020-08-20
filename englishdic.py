@@ -57,7 +57,7 @@ while True:
                 
             else:
                 print("答錯")
-        print(score)     
+        print(score,"分")     
         
                 
 
